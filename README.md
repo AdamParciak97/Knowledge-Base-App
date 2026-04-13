@@ -2,6 +2,10 @@
 
 Webowa aplikacja w Pythonie oparta o FastAPI i pojedynczy frontend HTML/JS. Pozwala wrzucac dokumenty przez przegladarke, budowac osobista baze wiedzy jako plik GGUF, wersjonowac dokumenty, wykrywac duplikaty po hashach oraz wykonywac semantyczne wyszukiwanie po chunkach.
 
+<img width="1344" height="1029" alt="image" src="https://github.com/user-attachments/assets/4a799b25-dec4-4046-afb9-2e747f4f59b1" />
+<img width="1507" height="489" alt="image" src="https://github.com/user-attachments/assets/8bf9b071-5636-45a2-bfbd-8ca2ebde7c7e" />
+
+
 ## Funkcje
 
 - upload wielu plikow przez przegladarke
