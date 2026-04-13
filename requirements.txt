@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+gguf
+sentence-transformers
+PyMuPDF
+python-docx
+scikit-learn
+numpy
+pyyaml
+toml
+python-multipart

@@ -1,0 +1,13 @@
+services:
+  kb:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      KB_PASSWORD: change-me
+      KB_ENABLE_PDF_OCR: "1"
+    ports:
+      - "0.0.0.0:8000:8000"
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
