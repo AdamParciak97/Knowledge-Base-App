@@ -178,3 +178,7 @@ ufw allow 8000
 - W runtime kontener dziala offline. Model embeddingow jest pobierany do obrazu na etapie build.
 - Dane dokumentow, stan bazy i pliki GGUF sa trzymane w `./data`, dzieki czemu przetrwaja restart kontenera.
 - OCR dla PDF zalezy od mozliwosci OCR udostepnionych przez lokalne srodowisko PyMuPDF.
+
+## Licencja
+
+MIT. Szczegoly sa w pliku `LICENSE`.
